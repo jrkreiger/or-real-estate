@@ -20,7 +20,7 @@ If you download the notebook to view locally, note that I formatted it using Jup
 In addition to Numpy, Pandas, Matplotlib, and Seaborn, you will also need Facebook Prophet to run the notebook on your local machine.
 
 ### Related content
-You can read my blog post about the project at this link: ____________________________.
+You can read my blog post about the project at this link: http://jrkreiger.net/uncategorized/time-series-modeling-with-facebook-prophet/.
 
 View a video of my non-technical presentation here: https://youtu.be/nd-XS--k5DY.
 
