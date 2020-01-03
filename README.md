@@ -25,7 +25,7 @@ This repository contains the following files:
 
 * **best-bets-or-real-estate.ipynb**: Jupyter Notebook containing project code
 
-* **zillow_data.csv** CSV file containing main dataset from Zillow
+* **zillow_data.csv**: CSV file containing main dataset from Zillow
 
 * **zillow_listings_counts.csv**: CSV file containing additional data from Zillow
 
@@ -3468,7 +3468,7 @@ Here's what you'll find inside:
 
 * **best-bets-or-real-estate.ipynb**: Jupyter Notebook containing project code
 
-* **zillow_data.csv** CSV file containing main dataset from Zillow
+* **zillow_data.csv**: CSV file containing main dataset from Zillow
 
 * **zillow_listings_counts.csv**: CSV file containing additional data from Zillow
 
